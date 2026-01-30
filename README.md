@@ -1,6 +1,6 @@
 <!-- Neon Tech Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=square&height=190&color=gradient&text=Adarsh%20Jain&fontSize=46&fontAlignY=40&animation=twinkling&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=gradient&text=Adarsh%20Jain&fontSize=46&fontAlignY=40&animation=twinkling&theme=tokyonight" />
 </p>
 
 
