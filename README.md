@@ -7,13 +7,13 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Adarsh+Jain;AI+%26+Full+Stack+Developer;ML+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Adarsh+Jain;AI+%26+Front+End+Developer;Always+Learning+🚀" />
 </div>
 
-<h2 align="center">🚀 AI Engineer | Full-Stack Developer | Problem Solver</h2>
+<h2 align="center">🚀 AI Engineer | Full-Stack Developer | Problem Solver | Front-End Developer </h2>
 
 <p align="center">
-  <strong>Building intelligent systems • Scalable web apps • ML-driven products</strong><br/>
+  <strong>Building intelligent systems • Scalable web apps • AI-driven products</strong><br/>
   <strong>Focused on turning ideas into production-ready solutions</strong>
 </p>
 
@@ -23,11 +23,11 @@
 
 ## 👋 About Me
 
-I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) at **Vellore Institute of Technology, Bhopal**
+I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellore Institute of Technology, Bhopal**
 
 - 🎯 Experience in **Full-Stack Development** and **AI Intern**  
 - 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems**  
-- 💡 Built: **Voice Assistants, AI Chatbots, Health Platforms, Job Portals**  
+- 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard **  
 - 🌱 Exploring: **Frontend Development, Backend Development**
 - 📬 Email: **Adarshjain2703@gmail.com**
 
@@ -97,40 +97,58 @@ I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) 
 
 ## 🚀 Featured Projects
 
-### 🎙️ EchoAI – Conversational Voice Agent  
-**Python, Mistral (Ollama), ElevenLabs API, VADER, Google Speech Recognition**  
-- Reduced response latency to under **8 seconds** by running Mistral locally  
-- Built modular emotion-aware conversational AI system  
-- Integrated fallback mechanisms for failed speech recognition or LLM responses  
+### 🚚 Project Synapse – AI-Powered Last-Mile Delivery Platform
+
+**React.js, Tailwind CSS, FastAPI, REST APIs, SQLModel, Leaflet.js** 
+- Built a role-based delivery platform with separate Customer & Rider dashboards
+- Developed responsive UI using React.js and Tailwind CSS
+- Integrated REST APIs for order management, assignment, and tracking
+- Implemented real-time map-based tracking using Leaflet.js
+- Added AI-powered chatbot support for automated customer issue resolution
+- Strengthened understanding of full-stack architecture & API-driven systems
 
 ---
 
-### 🌾 Gramin-Mitra – Rural Employment Platform  
-**Node.js, HTML, CSS, JavaScript, NLP, Scikit-learn**  
-- Multilingual job portal (Hindi + English + regional languages)  
-- NLP-powered bilingual chatbot resolving **90% of user queries**  
-- ML-based job recommendation engine by skills and location  
+### 🔐 Securing File Storage using Hybrid Cryptography (Cloud)
+
+**JavaScript, HTML, CSS, RSA, DES, Cryptographic Algorithms**
+- Designed a system to securely store files in encrypted form using cloud + local servers
+- Implemented RSA for key exchange and DES for data encryption
+- Built a frontend interface for file upload, encryption, and access control
+- Ensured data confidentiality and integrity through layered cryptography
+- Collaborated in a 5-member team with defined frontend responsibilities
 
 ---
 
-### 🥗 Nutrivista – Health-Focused Food Platform  
-**React, Flask, SQL, Dialogflow, Python**  
-- Dialogflow chatbot automating **85% of queries**  
-- 50+ item health-oriented food catalog  
-- Meal recommendation engine boosting engagement by **35%**  
-- Integrated secure Stripe payment gateway  
+### 🌱 Plant Disease Detection using Machine Learning
+
+**Python, Flask, TensorFlow, Keras, CNN**
+- Developed a CNN-based ML model to classify 5 different apple plant diseases
+- Built a web-based interface using Flask for real-time disease prediction
+- Contributed to dataset collection, preprocessing, and frontend integration
+- Achieved strong prediction accuracy through iterative model tuning
+- Presented the solution at Industry Conclave Project Expo, securing Runner-Up position
+---
+
+### 🧪 Software Development Internship Experience
+**Frontend, Debugging, SDLC, Git Workflows**  
+- Assisted in application development, testing, and debugging tasks
+- Gained hands-on exposure to real-world SDLC practices
+- Worked in collaborative team environments using Git & GitHub
+- Improved understanding of production-level coding standards
 
 ---
 
-### 🧠 NeuroQ – AI Mental Health Platform  
-**FastAPI, PostgreSQL, React, Groq API**  
-- Emotional check-in dashboard tracking 10+ symptoms  
-- NLP journaling assistant detecting anxiety signals (65%+ accuracy)  
-- Stress-relief tools: meditation, breathing, coloring, music therapy  
-- Increased engagement by **70%**  
+### ⚛️ Adarsh - Frontend Automation Interface
+**Frontend, React.js, JavaScript, HTML, CSS, Tailwind CSS**  
+- Built an interactive workflow builder UI to visually design and manage task flows
+- Implemented modular, component-based architecture for reusable workflow blocks
+- Enabled dynamic state handling for creating, updating, and connecting workflow steps
+- Designed a clean, responsive interface with user-friendly interactions
+- Focused on scalability and maintainability for future backend/API integration
+- Strengthened understanding of frontend architecture, state management, and UI logic
 
 ---
-
 ## 🏆 Achievements
 
 - 🥇 Finalist – **Top 50 / 350+ Teams** – Food Hackathon (CSIR-CFTRI)  
@@ -141,12 +159,11 @@ I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) 
 
 ## 🎓 Certifications
 
-- AWS Cloud **Practitioner – Foundational**  
-- Oracle **Generative AI Professional**  
-- Applied Machine Learning – University of Michigan  
-- Cloud Computing – NPTEL  
-- Front-End Development – Coursera  
-
+- **AWS Cloud Practitioner** – **Amazon Web Services**
+- **Oracle OCI Generative AI Professional – Oracle** 
+- Solutions Architecture Job Simulation – Forage 
+- Virtual Internship – Google Cloud Generative AI (SmartBridge & SmartInternz)
+- GenAI Powered Data Analytics – Forage
 ---
 
 ## 📊 GitHub Stats
