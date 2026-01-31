@@ -43,6 +43,8 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
 </p>
 
 
@@ -57,6 +59,11 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+
+
 </p>
 
 
@@ -68,6 +75,9 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
 </p>
 
 
@@ -85,16 +95,35 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 
 ---
 
-###  ☁️ AWS
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
+###  ☁️ AWS Cloud 
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
 
 </p>
 
-
-
 ---
 
+## 🧑‍💻 Experience
+**💼Software Development Intern**
+**Femira**
+- Assisted in application development, debugging, and testing across frontend and backend components
+- Worked closely with the development team following SDLC practices and agile workflows
+- Contributed to basic automation tasks and feature-level improvements
+- Gained hands-on experience with collaborative development, version control, and code reviews
+- Improved understanding of production-level code quality and deployment readiness
+
+ 
+**☁️ Virtual Intern – Generative AI (Google Cloud)**
+ SmartBridge & SmartInternz
+ - Learned core concepts of Generative AI, prompt engineering, and cloud-based AI services
+- Worked with Google Cloud tools to apply GenAI concepts through guided hands-on tasks
+- Explored real-world use cases of AI-driven applications in cloud environments
+- Strengthened fundamentals of cloud platforms, AI workflows, and applied learning
+
+---
 ## 🚀 Featured Projects
 
 ### 🚚 Project Synapse – AI-Powered Last-Mile Delivery Platform
@@ -151,9 +180,19 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 ---
 ## 🏆 Achievements
 
-- 🥇 Finalist – **Top 50 / 350+ Teams** – Food Hackathon (CSIR-CFTRI)  
-- 🔥 Completed **100 Days of DSA Challenge**  
-- ⭐ 5-Star SQL Rating on HackerRank  
+🥈 Runner-Up – **Industry Conclave Project Expo** – VIT Bhopal  
+- 🧠 Participant – **Smart India Hackathon (SIH)**  
+- 🚀 **Top 50 Teams** – **EY National Challenge**  
+- ⚡ Shortlisted Team – **Amazon Hackathon**  
+- 🛍️ Hackathon Participant – **Myntra Hackathon**  
+- 🧩 **Final Round Qualifier** – **Adobe Hackathon**  
+- 🔥 **20th Position** – **GrabHack (Unstop)**  
+- 📊 National-Level Participant – **Unstop Quiz National Challenge**  
+- 🏎️ Hackathon Participant – **TVS Hackathon**  
+- 👨‍💻 Hackathon Participant – **Full Stack Developer Challenges**  
+- 👥 Student Coordinator – **TCS Campus Recruitment Process**  
+- ⭐ General Secretary & Event Lead – **Edu4U Club, VIT Bhopal**
+
 
 ---
 
@@ -161,19 +200,25 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 
 - **AWS Cloud Practitioner** – **Amazon Web Services**
 - **Oracle OCI Generative AI Professional – Oracle** 
-- Solutions Architecture Job Simulation – Forage 
-- Virtual Internship – Google Cloud Generative AI (SmartBridge & SmartInternz)
-- GenAI Powered Data Analytics – Forage
+- Solutions Architecture Job Simulation – **Forage**
+- Virtual Internship – **Google Cloud Generative AI (SmartBridge & SmartInternz)**
+- GenAI Powered Data Analytics – **Forage**
+- Introduction to Generative AI – **IBM SkillsBuild**
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/0a751e1cb7dd79a0f12052ad1d19726182e6679371032796a0f5f18123f2668e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b757368616c5a616e7a617269266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainadarsh101805&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainadarsh101805&layout=compact&theme=tokyonight&hide_border=true" height="150"/> -->
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainadarsh101805&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jainadarsh101805&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jainadarsh101805&theme=gruvbox" />
 </p>
 
 ---
@@ -182,7 +227,7 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-jain-4bb873336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Adarshjain2022@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:Adarshjain2703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Jainadarsh101805"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
