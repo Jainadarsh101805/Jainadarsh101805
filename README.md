@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Adarsh+Jain;AI+%26+Front+End+Developer;Always+Learning+🚀" />
 </div>
 
-<h2 align="center">🚀 AI Engineer | Full-Stack Developer | Problem Solver | Front-End Developer </h2>
+<h2 align="center">🚀 Cloud & AI Engineer | Full-Stack Developer | Problem Solver | Front-End Developer </h2>
 
 <p align="center">
   <strong>Building intelligent systems • Scalable web apps • AI-driven products</strong><br/>
@@ -23,12 +23,12 @@
 
 ## 👋 About Me
 
-I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellore Institute of Technology, Bhopal**
+I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Vellore Institute of Technology, Bhopal**
 
-- 🎯 Experience in **Full-Stack Development** and **AI Intern**  
+- 🎯 Experience in **Full-Stack Development**, **AI Intern**, **Cloud Developer**  
 - 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems**  
 - 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard**  
-- 🌱 Exploring: **Frontend Development, Backend Development**
+- 🌱 Exploring: **Exploring full-stack development with a focus on frontend performance and backend APIs**
 - 📬 Email: **Adarshjain2703@gmail.com**
 
 ---
