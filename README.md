@@ -26,7 +26,7 @@
 I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Vellore Institute of Technology, Bhopal**
 
 - 🎯 Experience in **Full-Stack Development**, **AI Intern**, **Cloud Developer**  
-- 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems**  
+- 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems, LLM, Generative AI**  
 - 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard**  
 - 🌱 Exploring: **Exploring full-stack development with a focus on frontend performance and backend APIs**
 - 📬 Email: **Adarshjain2703@gmail.com**
@@ -44,6 +44,8 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-6E00FF?style=for-the-badge&logo=openai&logoColor=white" />
+
 
 </p>
 
@@ -62,6 +64,8 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+ <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+
 
 
 </p>
