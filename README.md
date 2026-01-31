@@ -27,7 +27,7 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 
 - 🎯 Experience in **Full-Stack Development** and **AI Intern**  
 - 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems**  
-- 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard **  
+- 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard**  
 - 🌱 Exploring: **Frontend Development, Backend Development**
 - 📬 Email: **Adarshjain2703@gmail.com**
 
@@ -169,10 +169,9 @@ I'm **Adarsh Jain**, an B.Tech + Cse(Cloud Computing and Automation) at **Vellor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jainadarsh101805&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainadarsh101805&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://camo.githubusercontent.com/0a751e1cb7dd79a0f12052ad1d19726182e6679371032796a0f5f18123f2668e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b757368616c5a616e7a617269266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainadarsh101805&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainadarsh101805&theme=tokyo-night&hide_border=true"/>
 </p>
