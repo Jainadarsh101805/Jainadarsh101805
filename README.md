@@ -141,7 +141,7 @@ I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) 
 
 ## 🎓 Certifications
 
-- Oracle **Data Science Professional**  
+- AWS Cloud **Practitioner – Foundational**  
 - Oracle **Generative AI Professional**  
 - Applied Machine Learning – University of Michigan  
 - Cloud Computing – NPTEL  
@@ -152,12 +152,12 @@ I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushalZanzari&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalZanzari&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jainadarsh101805&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainadarsh101805&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushalZanzari&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jainadarsh101805&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -165,9 +165,9 @@ I'm **Adarsh Jain**, an Integrated B.Tech + Cse(Cloud Computing and Automation) 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kushal-z-a96535255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adarsh-jain-4bb873336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:Adarshjain2022@vitbhopal.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/KushalZanzari"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Jainadarsh101805"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
