@@ -7,10 +7,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Adarsh+Jain;AI+%26+Front+End+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Adarsh+Jain;AI+%26+Full+Stack+Developer;Always+Learning+🚀" />
 </div>
 
-<h2 align="center">🚀 Cloud & AI Engineer | Full-Stack Developer | Problem Solver | Front-End Developer </h2>
+<h2 align="center">🚀 Cloud & AI Engineer | Full-Stack Developer | Problem Solver </h2>
 
 <p align="center">
   <strong>Building intelligent systems • Scalable web apps • AI-driven products</strong><br/>
@@ -23,13 +23,14 @@
 
 ## 👋 About Me
 
-I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Vellore Institute of Technology, Bhopal**
+I'm **Adarsh Jain**, **B.Tech (Cloud Computing and Automation)** at **Vellore Institute of Technology, Bhopal**
 
-- 🎯 Experience in **Full-Stack Development**, **AI Intern**, **Cloud Developer**  
-- 🤖 Interested in: **Conversational AI, NLP, Recommendation Systems, LLM, Generative AI**  
-- 💡 Built: **Voice Assistants, AI Chatbots, Rider Platforms, Coustomer Dashboard**  
-- 🌱 Exploring: **Exploring full-stack development with a focus on frontend performance and backend APIs**
-- 📬 Email: **Adarshjain2703@gmail.com**
+• 🎯 Experience in Full-Stack Development, Cloud Projects, and Software Engineering Internships  
+• ☁️ Interested in: Cloud Computing, Cloud Architecture, Backend APIs, Generative AI on Cloud, and Scalable Systems  
+• 🚀 Built: Cloud-deployed web applications, role-based dashboards, AI-powered delivery platforms, and secure cloud storage systems  
+• 🌱 Exploring: Full-stack development with a focus on cloud-native design, frontend performance, and backend API scalability  
+• 📫 Email: Adarshjain2703@gmail.com
+
 
 ---
 
@@ -43,8 +44,9 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-6E00FF?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- <img src="https://img.shields.io/badge/Generative%20AI-6E00FF?style=for-the-badge&logo=openai&logoColor=white" /> -->
 
 
 </p>
@@ -61,10 +63,11 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
- <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+ 
 
 
 
@@ -93,6 +96,7 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
 
   <!-- <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -163,14 +167,6 @@ I'm **Adarsh Jain**, an **B.Tech + Cse(Cloud Computing and Automation)** at **Ve
 - Contributed to dataset collection, preprocessing, and frontend integration
 - Achieved strong prediction accuracy through iterative model tuning
 - Presented the solution at Industry Conclave Project Expo, securing Runner-Up position
----
-
-### 🧪 Software Development Internship Experience
-**Frontend, Debugging, SDLC, Git Workflows**  
-- Assisted in application development, testing, and debugging tasks
-- Gained hands-on exposure to real-world SDLC practices
-- Worked in collaborative team environments using Git & GitHub
-- Improved understanding of production-level coding standards
 
 ---
 
